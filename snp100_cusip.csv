@@ -1,0 +1,102 @@
+,Symbol,Name,Sector,Cusip
+0,AAPL,Apple,Information Technology,037833100
+1,ABBV,AbbVie,Health Care,00287Y100
+2,ABT,Abbott,Health Care,002824100
+3,ACN,Accenture,Information Technology,G1151C101
+4,ADBE,Adobe,Information Technology,00724F101
+5,AIG,American International Group,Financials,026874784
+6,AMD,AMD,Information Technology,007903107
+7,AMGN,Amgen,Health Care,031162100
+8,AMT,American Tower,Real Estate,03027X100
+9,AMZN,Amazon,Consumer Discretionary,023135106
+10,AVGO,Broadcom,Information Technology,11135F101
+11,AXP,American Express,Financials,025816109
+12,BA,Boeing,Industrials,097023105
+13,BAC,Bank of America,Financials,060505104
+14,BK,BNY Mellon,Financials,064058100
+15,BKNG,Booking Holdings,Consumer Discretionary,09857L108
+16,BLK,BlackRock,Financials,09247X101
+17,BMY,Bristol Myers Squibb,Health Care,110122108
+18,BRK.B,Berkshire Hathaway,Financials,084670702
+19,C,Citigroup,Financials,172967424
+20,CAT,Caterpillar,Industrials,149123101
+21,CHTR,Charter Communications,Communication Services,16119P108
+22,CL,Colgate-Palmolive,Consumer Staples,194162103
+23,CMCSA,Comcast,Communication Services,20030N101
+24,COF,Capital One,Financials,14040H105
+25,COP,ConocoPhillips,Energy,20825C104
+26,COST,Costco,Consumer Staples,22160K105
+27,CRM,Salesforce,Information Technology,79466L302
+28,CSCO,Cisco,Information Technology,17275R102
+29,CVS,CVS Health,Health Care,143905107
+30,CVX,Chevron,Energy,166764100
+31,DHR,Danaher,Health Care,235851102
+32,DIS,Disney,Communication Services,254687106
+33,DOW,Dow,Materials,260557103
+34,DUK,Duke Energy,Utilities,26441C204
+35,EMR,Emerson,Industrials,291011104
+36,EXC,Exelon,Utilities,30161N101
+37,F,Ford,Consumer Discretionary,345370860
+38,FDX,FedEx,Industrials,199908104
+39,GD,General Dynamics,Industrials,369550108
+40,GE,GE,Industrials,369604301
+41,GILD,Gilead,Health Care,375558103
+42,GM,GM,Consumer Discretionary,37045V100
+43,GOOG,AlphabetÊ(Class C),Communication Services,
+44,GOOGL,Alphabet (Class A),Communication Services,02079K305
+45,GS,Goldman Sachs,Financials,38141G104
+46,HD,Home Depot,Consumer Discretionary,437076102
+47,HON,Honeywell,Industrials,438516106
+48,IBM,IBM,Information Technology,459200101
+49,INTC,Intel,Information Technology,458140100
+50,JNJ,Johnson & Johnson,Health Care,478160104
+51,JPM,JPMorgan Chase,Financials,46625H100
+52,KHC,Kraft Heinz,Consumer Staples,500754106
+53,KO,Coca-Cola,Consumer Staples,191216100
+54,LIN,Linde,Materials,G5494J103
+55,LLY,Lilly,Health Care,532457108
+56,LMT,Lockheed Martin,Industrials,539830109
+57,LOW,Lowe's,Consumer Discretionary,548661107
+58,MA,Mastercard,Information Technology,57636Q104
+59,MCD,McDonald's,Consumer Discretionary,580135101
+60,MDLZ,Mondel_z International,Consumer Staples,609207105
+61,MDT,Medtronic,Health Care,G5960L103
+62,MET,MetLife,Financials,59156R108
+63,META,Meta,Communication Services,30303M102
+64,MMM,3M,Industrials,88579Y101
+65,MO,Altria,Consumer Staples,02209S103
+66,MRK,Merck,Health Care,58933Y105
+67,MS,Morgan Stanley,Financials,617446448
+68,MSFT,Microsoft,Information Technology,594918104
+69,NEE,NextEra Energy,Utilities,65339F101
+70,NFLX,Netflix,Communication Services,64110L106
+71,NKE,Nike,Consumer Discretionary,654106103
+72,NVDA,Nvidia,Information Technology,67066G104
+73,ORCL,Oracle,Information Technology,68389X105
+74,PEP,PepsiCo,Consumer Staples,713448108
+75,PFE,Pfizer,Health Care,717081103
+76,PG,Procter & Gamble,Consumer Staples,742718109
+77,PM,Philip Morris International,Consumer Staples,718172109
+78,PYPL,PayPal,Information Technology,70450Y103
+79,QCOM,Qualcomm,Information Technology,747525103
+80,RTX,Raytheon Technologies,Industrials,75513E101
+81,SBUX,Starbucks,Consumer Discretionary,855244109
+82,SCHW,Charles Schwab,Financials,808513105
+83,SO,Southern Company,Utilities,842587107
+84,SPG,Simon,Real Estate,828806109
+85,T,AT&T,Communication Services,00206R102
+86,TGT,Target,Consumer Discretionary,87612E106
+87,TMO,Thermo Fisher Scientific,Health Care,883556102
+88,TMUS,T-Mobile,Communication Services,872590104
+89,TSLA,Tesla,Consumer Discretionary,88160R101
+90,TXN,Texas Instruments,Information Technology,882508104
+91,UNH,UnitedHealth Group,Health Care,91324P102
+92,UNP,Union Pacific,Industrials,907818108
+93,UPS,United Parcel Service,Industrials,911312106
+94,USB,U.S. Bank,Financials,902973304
+95,V,Visa,Information Technology,92826C839
+96,VZ,Verizon,Communication Services,92343V104
+97,WBA,Walgreens Boots Alliance,Consumer Staples,931427108
+98,WFC,Wells Fargo,Financials,949746101
+99,WMT,Walmart,Consumer Staples,931142103
+100,XOM,ExxonMobil,Energy,30231G102
