@@ -1,0 +1,133 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red25\green25\blue25;}
+{\*\expandedcolortbl;;\cssrgb\c12941\c12941\c12941;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww30780\viewh14900\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+Call:\
+   felm(formula = CAR_Window_1 ~ df$tone + df$Volume + df$Adj.Close |      CUSIP | 0 | CUSIP + Date, data = df) \
+\
+Residuals:\
+      Min        1Q    Median        3Q       Max \
+-0.151867 -0.023314  0.000658  0.025551  0.121910 \
+\
+Coefficients:\
+                  Estimate Cluster s.e. t value Pr(>|t|)    \
+df$toneNegative -6.470e-03    7.128e-03  -0.908 0.371283    \
+df$tonePositive  4.684e-03    1.099e-03   4.261 0.000185 ***\
+df$Volume        1.719e-10    2.946e-10   0.584 0.563891    \
+df$Adj.Close     3.526e-05    5.423e-05   0.650 0.520501    \
+---\
+Signif. codes:  0 \'91***\'92 0.001 \'91**\'92 0.01 \'91*\'92 0.05 \'91.\'92 0.1 \'91 \'92 1\
+\
+Residual standard error: 0.04849 on 1082 degrees of freedom\
+  (7 observations deleted due to missingness)\
+Multiple R-squared(full model): 0.1852   Adjusted R-squared: 0.03302 \
+Multiple R-squared(proj model): 0.009677   Adjusted R-squared: -0.1753 \
+F-statistic(full model, *iid*):1.217 on 34 and 1082 DF, p-value: 0.2067 \
+F-statistic(proj model): 31.45 on 4 and 30 DF, p-value: 2.433e-10 \
+\
+\
+\
+\
+Call:\
+   felm(formula = CAR_Window_3 ~ df$tone + df$Volume + df$Adj.Close |      CUSIP | 0 | CUSIP + Date, data = df) \
+\
+Residuals:\
+      Min        1Q    Median        3Q       Max \
+-0.235370 -0.047995  0.001162  0.047713  0.216275 \
+\
+Coefficients:\
+                  Estimate Cluster s.e. t value Pr(>|t|)    \
+df$toneNegative -1.974e-01    1.576e-02  12.523 1.91e-13 ***\
+df$tonePositive  1.873e-01    2.474e-03  75.697  < 2e-16 ***\
+df$Volume        1.598e-11    5.337e-10   0.030  0.97631    \
+df$Adj.Close    -2.178e-04    6.877e-05  -3.167  0.00353 ** \
+---\
+Signif. codes:  0 \'91***\'92 0.001 \'91**\'92 0.01 \'91*\'92 0.05 \'91.\'92 0.1 \'91 \'92 1\
+\
+Residual standard error: 0.08702 on 1082 degrees of freedom\
+  (7 observations deleted due to missingness)\
+Multiple R-squared(full model): 0.2161   Adjusted R-squared: 0.06969 \
+Multiple R-squared(proj model): 0.04118   Adjusted R-squared: -0.1379 \
+F-statistic(full model, *iid*):1.476 on 34 and 1082 DF, p-value: 0.05543 \
+F-statistic(proj model):  2398 on 4 and 30 DF, p-value: < 2.2e-16 \
+\
+\
+\
+Call:\
+   felm(formula = CAR_Window_2 ~ df$tone + df$Volume + df$Adj.Close |      CUSIP | 0 | CUSIP + Date, data = df) \
+\
+Residuals:\
+     Min       1Q   Median       3Q      Max \
+-0.19007 -0.03463  0.00224  0.03743  0.18318 \
+\
+Coefficients:\
+                  Estimate Cluster s.e. t value Pr(>|t|)    \
+df$toneNegative -2.788e-02    8.146e-03   3.422  0.00181 ** \
+df$tonePositive  2.647e-02    2.371e-03  11.162 3.33e-12 ***\
+df$Volume        1.721e-10    3.586e-10   0.480  0.63465    \
+df$Adj.Close    -1.091e-04    6.876e-05  -1.587  0.12298    \
+---\
+Signif. codes:  0 \'91***\'92 0.001 \'91**\'92 0.01 \'91*\'92 0.05 \'91.\'92 0.1 \'91 \'92 1\
+\
+Residual standard error: 0.05885 on 1082 degrees of freedom\
+  (7 observations deleted due to missingness)\
+Multiple R-squared(full model): 0.1942   Adjusted R-squared: 0.04366 \
+Multiple R-squared(proj model): 0.01622   Adjusted R-squared: -0.1676 \
+F-statistic(full model, *iid*): 1.29 on 34 and 1082 DF, p-value: 0.147 \
+F-statistic(proj model): 40.11 on 4 and 30 DF, p-value: 1.244e-11 \
+\
+\
+\
+Call:\
+   felm(formula = CAR_Window_4 ~ df$tone + df$Volume + df$Adj.Close |      CUSIP | 0 | CUSIP + Date, data = df) \
+\
+Residuals:\
+      Min        1Q    Median        3Q       Max \
+-0.152719 -0.024964  0.001403  0.036748  0.151141 \
+\
+Coefficients:\
+                  Estimate Cluster s.e. t value Pr(>|t|)  \
+df$toneNegative -1.158e-02    6.789e-03  -1.706   0.0984 .\
+df$tonePositive  3.260e-03    1.592e-03   2.048   0.0494 *\
+df$Volume        1.454e-10    3.174e-10   0.458   0.6501  \
+df$Adj.Close     3.416e-05    8.533e-05   0.400   0.6918  \
+---\
+Signif. codes:  0 \'91***\'92 0.001 \'91**\'92 0.01 \'91*\'92 0.05 \'91.\'92 0.1 \'91 \'92 1\
+\
+Residual standard error: 0.05202 on 1082 degrees of freedom\
+  (7 observations deleted due to missingness)\
+Multiple R-squared(full model): 0.1941   Adjusted R-squared: 0.04353 \
+Multiple R-squared(proj model): 0.01228   Adjusted R-squared: -0.1722 \
+F-statistic(full model, *iid*):1.289 on 34 and 1082 DF, p-value: 0.1477 \
+F-statistic(proj model): 9.111 on 4 and 30 DF, p-value: 6.098e-05 \
+\
+\
+\
+Call:\
+   felm(formula = CAR_Window_5 ~ df$tone + df$Volume + df$Adj.Close |      CUSIP | 0 | CUSIP + Date, data = df) \
+\
+Residuals:\
+      Min        1Q    Median        3Q       Max \
+-0.188562 -0.027862  0.000942  0.033284  0.135309 \
+\
+Coefficients:\
+                  Estimate Cluster s.e. t value Pr(>|t|)   \
+df$toneNegative -2.320e-02    7.054e-03  -3.290  0.00257 **\
+df$tonePositive -5.413e-03    2.036e-03  -2.659  0.01246 * \
+df$Volume        2.531e-10    3.466e-10   0.730  0.47089   \
+df$Adj.Close     3.694e-05    1.075e-04   0.344  0.73360   \
+---\
+Signif. codes:  0 \'91***\'92 0.001 \'91**\'92 0.01 \'91*\'92 0.05 \'91.\'92 0.1 \'91 \'92 1\
+\
+Residual standard error: 0.05648 on 1082 degrees of freedom\
+  (7 observations deleted due to missingness)\
+Multiple R-squared(full model): 0.2257   Adjusted R-squared: 0.08108 \
+Multiple R-squared(proj model): 0.01639   Adjusted R-squared: -0.1674 \
+F-statistic(full model, *iid*):1.561 on 34 and 1082 DF, p-value: 0.03403 \
+F-statistic(proj model):  5.91 on 4 and 30 DF, p-value: 0.001247 \
+}
